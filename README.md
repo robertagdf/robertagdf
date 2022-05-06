@@ -32,7 +32,7 @@
 </div>
   
  
-  <img align="right" alt="Roh-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/759573774735245364/951869153101377556/Webp.net-gifmaker.gif?width=391&height=391">
+  <img align="right" alt="Roh-gif" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/7e/9b/8e/7e9b8e16c71f18f7df2031fe3b71429a.gif">
 </div>
   
 ##
