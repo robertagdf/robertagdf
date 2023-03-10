@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Olá! 👋 </h1>
  </div>
- l
+ 
 <div align="center">
 <img src="https://blog.mentores.com.br/wp-content/uploads/2020/02/giphy_tech.gif" width="500px" /> '
 </div>
