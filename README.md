@@ -3,7 +3,7 @@
  </div>
  
 <div align="center">
-<img src="https://blog.mentores.com.br/wp-content/uploads/2020/02/giphy_tech.gif" width="500px" /> '
+<img src="https://blog.mentores.com.br/wp-content/uploads/2020/02/giphy_tech.gif" width="500px" />
 </div>
 
 <h3> 💡 &nbsp;Sobre mim </h3>
