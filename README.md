@@ -8,7 +8,7 @@
 
 <h3> 💡 &nbsp;Sobre mim </h3>
 
-- :pushpin: &nbsp; Estudando HTML, CSS, C# e JS . Explorando novas tecnologias e desenvolvendo soluções de software.
+- :pushpin: &nbsp; Estudando HTML, CSS, C# . Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas**.
 
 <div style="display: inline_block"><br>
