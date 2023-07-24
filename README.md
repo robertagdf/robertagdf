@@ -8,14 +8,18 @@
 
 <h3> 💡 &nbsp;Sobre mim </h3>
 
-- :pushpin: &nbsp; Estudando HTML, CSS, JavaScript, Node Js, C#, ASP.Net, MySql . Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas**.
+- :pushpin: &nbsp; Estudando HTML, CSS, JavaScript, Node Js, C#, .Net, MySql . Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas na PUC Minas**.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />                                                   
-  <img align="center" alt="C#" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Git" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="HTML" height="45" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />    
+   <img align="center" alt="CSS" height="45" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img align="center" alt="CSS" height="45" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+   <img align="center" alt="CSS" height="45" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="C#" height="45" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+   <img align="center" alt="CSS" height="45" width="60" <<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
   
 
