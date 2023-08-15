@@ -1,10 +1,8 @@
 <div align="center">
   <h1> Olá! 👋 </h1>
+  <img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="500px" />
  </div>
  
-<div align="center">
-<img src="https://blog.mentores.com.br/wp-content/uploads/2020/02/giphy_tech.gif" width="500px" />
-</div>
 
 <h3> 💡 &nbsp;Sobre mim </h3>
 
