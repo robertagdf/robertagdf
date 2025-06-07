@@ -7,7 +7,7 @@
 <h3> 💡 &nbsp;Sobre mim </h3>
 
 - :pushpin: &nbsp; Estudando HTML, CSS, JavaScript, Node Js, C#, .Net, MySql . Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas na PUC Minas**.
+- 🎓 &nbsp; Formada em **Análise e Desenvolvimento de Sistemas na PUC Minas**.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
